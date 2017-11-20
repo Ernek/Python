@@ -9,7 +9,7 @@ import sys
 import numpy as np
 import math
 
-with open('output_Td', 'w') as f_out:
+with open(sys.argv[2], 'w') as f_out:
     
     f_out.write(str('##Tetrahedral parameter \n##Td_param \
                      angles [1 2 3 4 5 6] \n'))
