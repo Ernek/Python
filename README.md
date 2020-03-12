@@ -1,3 +1,5 @@
-# Python
+# Order Parameters  
 
-This Folder contains useful Python Codes related to the analysis and management of my scientific research results/efforts
+This Folder contains python codes to calculate values of Order Parameters (Collective Variables) of molecular structures part of a Molecular Dynamics simulation. 
+
+1- Tetrahedrality
